@@ -17,3 +17,12 @@ You guys have to make a CNN model or any other model which you like which is tra
 Furthermore, after you have the model ready you have to test this model in making a simulation based on the module `pygame`. The criteria is that whichever model performs the best in the simulation, wins the challenge :)
 
 Happy Hacking :)
+
+
+## How to Submit?
+
+You have four fields given,
+- Model Upload field -> upload the zipped model file.
+- Simulation file -> .mp4 video of the simulation (or a simulation.py with video's google drive link)
+- Submission csv file -> submission.csv containing the predicted labels.
+- Python files -> The whole zipped project of your python files.
